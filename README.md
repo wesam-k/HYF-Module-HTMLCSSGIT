@@ -7,3 +7,6 @@
 ## week2
 - html .(https://wesam-k.github.io/HYF-Module-HTMLCSSGIT/week2/index%20homework2.html)
 - CLI git-practice .(https://github.com/wesam-k/git_practice)
+## week3 
+-
+- CLI animal(https://github.com/wesam-k/animals) 
