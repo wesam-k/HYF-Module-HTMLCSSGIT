@@ -12,6 +12,6 @@
 - html .(https://wesam-k.github.io/HYF-Module-HTMLCSSGIT/week2/index%20homework2.html)
 - CLI git-practice .(https://github.com/wesam-k/git_practice)
 ## week3 
--
+- Responsive web
 - CLI animal(https://github.com/wesam-k/animals) 
 >>>>>>> b2f6e92001d102e4f695930975920911b4fded87
