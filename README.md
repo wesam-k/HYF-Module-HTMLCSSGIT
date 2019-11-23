@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# HYF-Module-HTMLCSSGIT# animals
-# week3
+
+
 =======
 # HYF-Module-HTMLCSSGIT
 
